@@ -1,0 +1,46 @@
+body
+{
+	background-color: rgb(126, 126, 126);
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+h1
+{
+	font-size: 36px;
+	font-weight: 400;
+	color: #fcac01;
+	margin: 20px;
+}
+
+.jumpers
+{
+	text-align: center;
+}
+.jumper figure
+{
+	margin: 10px;
+}
+.jumpers img 
+{
+	max-width: 100%;
+	height: auto;
+}
+.jumpers p
+{
+	margin-bottom: 30px;
+}
+.jumpers figcaption 
+{
+	margin-top: 8px;
+}
+/*.navbar-nav li:hover > .dropdown-menu
+{
+	display: block;
+}
+*/
+.bg-jumpers
+{
+	background-color: #fcac01 !important;
+}
